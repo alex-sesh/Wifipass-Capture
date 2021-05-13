@@ -1,6 +1,8 @@
 # wifipass-capture
 WiFi Password Evil Portal modified to work on the Wi-Fi Pineapple MK7
 
+HAK5 Topic Link: https://forums.hak5.org/topic/54590-evil-portal-wifi-password-capture/
+
 ### Demo
 
 
