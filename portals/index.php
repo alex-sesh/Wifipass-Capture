@@ -9,7 +9,7 @@ require_once('helper.php');
   <title>Router Configuration Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
   
       <script type="text/javascript"> <!-- Pineapple code start -->
       function redirect() {
@@ -165,7 +165,7 @@ Additionally, PTCL provides for a GPL-Code-Centre under http://
 www.PTCL.com/en/support/gpl/ where machine readable copies
 of the GPL source codes used in PTCL products are available for
 free download. Please note, that the GPL-Code-Centre is only provided
-for as a courtesy to PTCL’s customers but may neither offer
+for as a courtesy to PTCLâ€™s customers but may neither offer
 a full set of source codes used in all products nor always provide for
 the latest or actual version of such source codes.
 The GPL Code used in this product is distributed WITHOUT ANY
@@ -298,8 +298,8 @@ way to achieve this is to make it free software which everyone can redistribute 
 terms.
 To do so, attach the following notices to the program. It is safest to attach them to the start of each
 source file to most effectively convey the exclusion of warranty; and each file should have at least the
-“copyright" line and a pointer to where the full notice is found.
-<one line to give the program’s name and a brief idea of what it does.>
+â€œcopyright" line and a pointer to where the full notice is found.
+<one line to give the programâ€™s name and a brief idea of what it does.>
 Copyright (C) 19yy <name of author>
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General
 Public License as published by the Free Software Foundation; either version 1, or (at your option) any
@@ -312,18 +312,18 @@ to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston M
 Also add information on how to contact you by electronic and paper mail.
 If the program is interactive, make it output a short notice like this when it starts in an interactive mode:
 Gnomovision version 69, Copyright (C) 19xx name of author
-Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type 'show w’. This is free software, and
-you are welcome to redistribute it under certain conditions; type 'show c’ for details.
-The hypothetical commands 'show w’ and 'show c’ should show the appropriate parts of the General
-Public License. Of course, the commands you use may be called something other than 'show w’ and
-'show c’; they could even be mouse-clicks or menu items--whatever suits your program.
+Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type 'show wâ€™. This is free software, and
+you are welcome to redistribute it under certain conditions; type 'show câ€™ for details.
+The hypothetical commands 'show wâ€™ and 'show câ€™ should show the appropriate parts of the General
+Public License. Of course, the commands you use may be called something other than 'show wâ€™ and
+'show câ€™; they could even be mouse-clicks or menu items--whatever suits your program.
 You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright
 disclaimer" for the program, if necessary. Here a sample; alter the names:
-Yoyodyne, Inc., hereby disclaims all copyright interest in the program 'Gnomovision’ (a program to direct
+Yoyodyne, Inc., hereby disclaims all copyright interest in the program 'Gnomovisionâ€™ (a program to direct
 compilers to make passes at assemblers) written by James Hacker.
 <signature of Ty Coon>, 1 April 1989
 Ty Coon, President of Vice
-That’s all there is to it!
+Thatâ€™s all there is to it!
 GNU GENERAL PUBLIC LICENSE Version 2, June 1991
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
@@ -333,7 +333,7 @@ Preamble
 The licenses for most software are designed to take away your freedom to share and change it. By contrast,
 the GNU General Public License is intended to guarantee your freedom to share and change free
 software--to make sure the software is free for all its users. This General Public License applies to most
-of the Free Software Foundation’s software and to any other program whose authors commit to using
+of the Free Software Foundationâ€™s software and to any other program whose authors commit to using
 it. (Some other Free Software Foundation software is covered by the GNU Lesser General Public License
 instead.) You can apply it to your programs, too.
 When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are
@@ -348,13 +348,13 @@ recipients all the rights that you have. You must make sure that they, too, rece
 code. And you must show them these terms so they know their rights.
 We protect your rights with two steps: (1) copyright the software, and (2) offer you this license which
 gives you legal permission to copy, distribute and/or modify the software.
-Also, for each author’s protection and ours, we want to make certain that everyone understands that
+Also, for each authorâ€™s protection and ours, we want to make certain that everyone understands that
 there is no warranty for this free software. If the software is modified by someone else and passed on, we
 want its recipients to know that what they have is not the original, so that any problems introduced by
-others will not reflect on the original authors’ reputations.
+others will not reflect on the original authorsâ€™ reputations.
 Finally, any free program is threatened constantly by software patents. We wish to avoid the danger that
 redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.
-To prevent this, we have made it clear that any patent must be licensed for everyone’s free use or
+To prevent this, we have made it clear that any patent must be licensed for everyoneâ€™s free use or
 not licensed at all.
 The precise terms and conditions for copying, distribution and modification follow.
 GNU GENERAL PUBLIC LICENSE
@@ -370,7 +370,7 @@ Activities other than copying, distribution and modification are not covered by 
 outside its scope. The act of running the Program is not restricted, and the output from the Program
 is covered only if its contents constitute a work based on the Program (independent of having been 
 made by running the Program). Whether that is true depends on what the Program does.
-1. You may copy and distribute verbatim copies of the Program’s source code as you receive it, in any
+1. You may copy and distribute verbatim copies of the Programâ€™s source code as you receive it, in any
 medium, provided that you conspicuously and appropriately publish on each copy an appropriate
 copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and
 to the absence of any warranty; and give any other recipients of the Program a copy of this License
@@ -443,7 +443,7 @@ and all its terms and conditions for copying, distributing or modifying the Prog
 on it.
 6. Each time you redistribute the Program (or any work based on the Program), the recipient automatically
 receives a license from the original licensor to copy, distribute or modify the Program subject
-to these terms and conditions. You may not impose any further restrictions on the recipients’ exercise
+to these terms and conditions. You may not impose any further restrictions on the recipientsâ€™ exercise
 of the rights granted herein. You are not responsible for enforcing compliance by third parties
 to this License.
 7. If, as a consequence of a court judgment or allegation of patent infringement or for any other reason
@@ -509,7 +509,7 @@ terms.
 To do so, attach the following notices to the program. It is safest to attach them to the start of each source
 file to most effectively convey the exclusion of warranty; and each file should have at least the "copyright"
 line and a pointer to where the full notice is found.
-<one line to give the program’s name and a brief idea of what it does.>
+<one line to give the programâ€™s name and a brief idea of what it does.>
 Copyright (C) <year> <name of author>
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General
 Public License as published by the Free Software Foundation; either version 2 of the License, or (at your
@@ -522,14 +522,14 @@ to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, 
 Also add information on how to contact you by electronic and paper mail. If the program is interactive,
 make it output a short notice like this when it starts in an interactive mode:
 Gnomovision version 69, Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO
-WARRANTY; for details type 'show w’. This is free software, and you are welcome to redistribute it under
-certain conditions; type 'show c’ for details.
-The hypothetical commands 'show w’ and 'show c’ should show the appropriate parts of the General
-Public License. Of course, the commands you use may be called something other than 'show w’ and
-'show c’; they could even be mouse-clicks or menu items--whatever suits your program.
+WARRANTY; for details type 'show wâ€™. This is free software, and you are welcome to redistribute it under
+certain conditions; type 'show câ€™ for details.
+The hypothetical commands 'show wâ€™ and 'show câ€™ should show the appropriate parts of the General
+Public License. Of course, the commands you use may be called something other than 'show wâ€™ and
+'show câ€™; they could even be mouse-clicks or menu items--whatever suits your program.
 You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright
 disclaimer" for the program, if necessary. Here is a sample; alter the names:
-Yoyodyne, Inc., hereby disclaims all copyright interest in the program Gnomovision’ (which makes passes
+Yoyodyne, Inc., hereby disclaims all copyright interest in the program Gnomovisionâ€™ (which makes passes
 at compilers) written by James Hacker.
 <signature of Ty Coon>, 1 April 1989
 Ty Coon, President of Vice
@@ -569,7 +569,7 @@ We protect your rights with a two-step method: (1) we copyright the library, and
 license, which gives you legal permission to copy, distribute and/or modify the library.
 To protect each distributor, we want to make it very clear that there is no warranty for the free library.
 Also, if the library is modified by someone else and passed on, the recipients should know that what they
-have is not the original version, so that the original author’s reputation will not be affected by problems
+have is not the original version, so that the original authorâ€™s reputation will not be affected by problems
 that might be introduced by others.
 Finally, software patents pose a constant threat to the existence of any free program. We wish to make
 sure that a company cannot effectively restrict the users of a free program by obtaining a restrictive
@@ -583,7 +583,7 @@ When a program is linked with a library, whether statically or using a shared li
 the two is legally speaking a combined work, a derivative of the original library. The ordinary General
 Public License therefore permits such linking only if the entire combination fits its criteria of freedom. The
 Lesser General Public License permits more lax criteria for linking other code with the library.
-We call this license the "Lesser" General Public License because it does Less to protect the user’s freedom
+We call this license the "Lesser" General Public License because it does Less to protect the userâ€™s freedom
 than the ordinary General Public License. It also provides other free software developers Less of an advantage
 over competing non-free programs. These disadvantages are the reason we use the ordinary
 General Public License for many libraries. However, the Lesser license provides advantages in certain
@@ -597,7 +597,7 @@ In other cases, permission to use a particular library in non-free programs enab
 people to use a large body of free software. For example, permission to use the GNU C Library in non-free
 programs enables many more people to use the whole GNU operating system, as well as its variant, the
 GNU/Linux operating system.
- Although the Lesser General Public License is Less protective of the users’ freedom, it does ensure that
+ Although the Lesser General Public License is Less protective of the usersâ€™ freedom, it does ensure that
 the user of a program that is linked with the Library has the freedom and the wherewithal to run that
 program using a modified version of the Library.
  The precise terms and conditions for copying, distribution and modification follow. Pay close attention to
@@ -625,7 +625,7 @@ outside its scope. The act of running a program using the Library is not restric
 such a program is covered only if its contents constitute a work based on the Library (independent
 of the use of the Library in a tool for writing it). Whether that is true depends on what the Library
 does and what the program that uses the Library does.
-1. You may copy and distribute verbatim copies of the Library’s complete source code as you receive
+1. You may copy and distribute verbatim copies of the Libraryâ€™s complete source code as you receive
 it, in any medium, provided that you conspicuously and appropriately publish on each copy an
 appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this
 License and to the absence of any warranty; and distribute a copy of this License along with the
@@ -699,7 +699,7 @@ under the terms of Section 6. Any executables containing that work also fall und
 or not they are linked directly with the Library itself.
 6. As an exception to the Sections above, you may also combine or link a "work that uses the Library"
 with the Library to produce a work containing portions of the Library, and distribute that work under
-terms of your choice, provided that the terms permit modification of the work for the customer’s
+terms of your choice, provided that the terms permit modification of the work for the customerâ€™s
 own use and reverse engineering for debugging such modifications.
 You must give prominent notice with each copy of the work that the Library is used in it and that the
 Library and its use are covered by this License. You must supply a copy of this License. If the work
@@ -715,7 +715,7 @@ executable containing the modified Library. (It is understood that the user who 
 contents of definitions files in the Library will not necessarily be able to recompile the application
 to use the modified definitions.)
 b ) Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is
-one that (1) uses at run time a copy of the library already present on the user’s computer system,
+one that (1) uses at run time a copy of the library already present on the userâ€™s computer system,
 rather than copying library functions into the executable, and (2) will operate properly
 with a modified version of the library, if the user installs one, as long as the modified version
 is interface-compatible with the version that the work was made with.
@@ -756,7 +756,7 @@ prohibited by law if you do not accept this License. Therefore, by modifying or 
 all its terms and conditions for copying, distributing or modifying the Library or works based on it.
 10. Each time you redistribute the Library (or any work based on the Library), the recipient automatically
 receives a license from the original licensor to copy, distribute, link with or modify the Library
-subject to these terms and conditions. You may not impose any further restrictions on the recipients’
+subject to these terms and conditions. You may not impose any further restrictions on the recipientsâ€™
 exercise of the rights granted herein. You are not responsible for enforcing compliance by third
 parties with this License.
 11. If, as a consequence of a court judgment or allegation of patent infringement or for any other
@@ -821,7 +821,7 @@ redistribution under these terms (or, alternatively, under the terms of the ordi
 To apply these terms, attach the following notices to the library. It is safest to attach them to the start of
 each source file to most effectively convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
-<one line to give the library’s name and a brief idea of what it does.>
+<one line to give the libraryâ€™s name and a brief idea of what it does.>
 Copyright (C) <year> <name of author>
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser
 General Public License as published by the Free Software Foundation; either version 2.1 of the License, or
@@ -834,11 +834,11 @@ write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Bo
 Also add information on how to contact you by electronic and paper mail.
 You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright
 disclaimer" for the library, if necessary. Here is a sample; alter the names:
-Yoyodyne, Inc., hereby disclaims all copyright interest in the library 'Frob’ (a library for tweaking knobs)
+Yoyodyne, Inc., hereby disclaims all copyright interest in the library 'Frobâ€™ (a library for tweaking knobs)
 written by James Random Hacker.
 <signature of Ty Coon>, 1 April 1990
 Ty Coon, President of Vice
-That’s all there is to it!
+Thatâ€™s all there is to it!
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -862,12 +862,12 @@ the recipients the same freedoms that you received. You must make sure that they
 get the source code. And you must show them these terms so they know their rights.
 Developers that use the GNU GPL protect your rights with two steps: (1) assert copyright on the software,
 and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.
-For the developers’ and authors’ protection, the GPL clearly explains that there is no warranty for this
-free software. For both users’ and authors’ sake, the GPL requires that modified versions be marked as
+For the developersâ€™ and authorsâ€™ protection, the GPL clearly explains that there is no warranty for this
+free software. For both usersâ€™ and authorsâ€™ sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to authors of previous versions.
 Some devices are designed to deny users access to install or run modified versions of the software inside
 them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting
-users’ freedom to change the software. The systematic pattern of such abuse occurs in the area
+usersâ€™ freedom to change the software. The systematic pattern of such abuse occurs in the area
 of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have
 designed this version of the GPL to prohibit the practice for those products. If such problems arise substantially
 in other domains, we stand ready to extend this provision to those domains in future versions
@@ -915,7 +915,7 @@ system, and so on) of the specific operating system (if any) on which the execut
 or a compiler used to produce the work, or an object code interpreter used to run it.
 The "Corresponding Source" for a work in object code form means all the source code needed to
 generate, install, and (for an executable work) run the object code and to modify the work, including
-scripts to control those activities. However, it does not include the work’s System Libraries, or
+scripts to control those activities. However, it does not include the workâ€™s System Libraries, or
 general-purpose tools or generally available free programs which are used unmodified in performing
 those activities but which are not part of the work. For example, Corresponding Source includes
 interface definition files associated with source files for the work, and the source code for shared
@@ -940,17 +940,17 @@ for you must do so exclusively on your behalf, under your direction and control,
 them from making any copies of your copyrighted material outside their relationship with you.
 Conveying under any other circumstances is permitted solely under the conditions stated below.
 Sublicensing is not allowed; section 10 makes it unnecessary.
-3. Protecting Users’ Legal Rights From Anti-Circumvention Law.
+3. Protecting Usersâ€™ Legal Rights From Anti-Circumvention Law.
 No covered work shall be deemed part of an effective technological measure under any applicable
 law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December
 1996, or similar laws prohibiting or restricting circumvention of such measures.
 When you convey a covered work, you waive any legal power to forbid circumvention of technological
 measures to the extent such circumvention is effected by exercising rights under this License
 with respect to the covered work, and you disclaim any intention to limit operation or modification
-of the work as a means of enforcing, against the work’s users, your or third parties’ legal rights to
+of the work as a means of enforcing, against the workâ€™s users, your or third partiesâ€™ legal rights to
 forbid circumvention of technological measures.
 4. Conveying Verbatim Copies.
-You may convey verbatim copies of the Program’s source code as you receive it, in any medium, provided
+You may convey verbatim copies of the Programâ€™s source code as you receive it, in any medium, provided
 that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep
 intact all notices stating that this License and any non-permissive terms added in accord with section 7
 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of
@@ -976,7 +976,7 @@ your work need not make them do so.
 A compilation of a covered work with other separate and independent works, which are not by
 their nature extensions of the covered work, and which are not combined with it such as to form a
 larger program, in or on a volume of a storage or distribution medium, is called an "aggregate" if the
-compilation and its resulting copyright are not used to limit the access or legal rights of the compilation’s
+compilation and its resulting copyright are not used to limit the access or legal rights of the compilationâ€™s
 users beyond what the individual works permit. Inclusion of a covered work in an aggregate
 does not cause this License to apply to the other parts of the aggregate.
 6. Conveying Non-Source Forms.
@@ -1111,7 +1111,7 @@ for enforcing compliance by third parties with this License.
 An "entity transaction" is a transaction transferring control of an organization, or substantially all
 assets of one, or subdividing an organization, or merging organizations. If propagation of a covered
 work results from an entity transaction, each party to that transaction who receives a copy of the
-work also receives whatever licenses to the work the party’s predecessor in interest had or could
+work also receives whatever licenses to the work the partyâ€™s predecessor in interest had or could
 give under the previous paragraph, plus a right to possession of the Corresponding Source of the
 work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
 You may not impose any further restrictions on the exercise of the rights granted or affirmed under
@@ -1121,14 +1121,14 @@ counterclaim in a lawsuit) alleging that any patent claim is infringed by making
 for sale, or importing the Program or any portion of it.
 11. Patents.
 A "contributor" is a copyright holder who authorizes use under this License of the Program or a work
-on which the Program is based. The work thus licensed is called the contributor’s "contributor version".
-A contributor’s "essential patent claims" are all patent claims owned or controlled by the contributor,
+on which the Program is based. The work thus licensed is called the contributorâ€™s "contributor version".
+A contributorâ€™s "essential patent claims" are all patent claims owned or controlled by the contributor,
 whether already acquired or hereafter acquired, that would be infringed by some manner, permitted
 by this License, of making, using, or selling its contributor version, but do not include claims
 that would be infringed only as a consequence of further modification of the contributor version.
 For purposes of this definition, "control" includes the right to grant patent sublicenses in a manner
 consistent with the requirements of this License.
-Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor’s
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributorâ€™s
 essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify
 and propagate the contents of its contributor version.
 In the following three paragraphs, a "patent license" is any express agreement or commitment,
@@ -1142,7 +1142,7 @@ through a publicly available network server or other readily accessible means, t
 benefit of the patent license for this particular work, or (3) arrange, in a manner consistent with the
 requirements of this License, to extend the patent license to downstream recipients. "Knowingly
 relying" means you have actual knowledge that, but for the patent license, your conveying the covered
-work in a country, or your recipient’s use of the covered work in a country, would infringe one
+work in a country, or your recipientâ€™s use of the covered work in a country, would infringe one
 or more identifiable patents in that country that you have reason to believe are valid.
 If, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate
 by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving
@@ -1161,7 +1161,7 @@ compilations that contain the covered work, unless you entered into that arrange
 license was granted, prior to 28 March 2007.
 Nothing in this License shall be construed as excluding or limiting any implied license or other defenses
 to infringement that may otherwise be available to you under applicable patent law.
-12. No Surrender of Others’ Freedom.
+12. No Surrender of Othersâ€™ Freedom.
 If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict
 the conditions of this License, they do not excuse you from the conditions of this License. If you
 cannot convey a covered work so as to satisfy simultaneously your obligations under this License
@@ -1187,7 +1187,7 @@ published by the Free Software Foundation. If the Program does not specify a ver
 the GNU General Public License, you may choose any version ever published by the Free Software
 Foundation.
 If the Program specifies that a proxy can decide which future versions of the GNU General Public License
-can be used, that proxy’s public statement of acceptance of a version permanently authorizes
+can be used, that proxyâ€™s public statement of acceptance of a version permanently authorizes
 you to choose that version for the Program.
 Later license versions may give you additional or different permissions. However, no additional obligations
 are imposed on any author or copyright holder as a result of your choosing to follow a later
@@ -1222,7 +1222,7 @@ terms.
 To do so, attach the following notices to the program. It is safest to attach them to the start of each
 source file to most effectively state the exclusion of warranty; and each file should have at least the "copyright"
 line and a pointer to where the full notice is found.
-<one line to give the program’s name and a brief idea of what it does.>
+<one line to give the programâ€™s name and a brief idea of what it does.>
 Copyright (C) <year> <name of author>
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General
 Public License as published by the Free Software Foundation, either version 3 of the License, or (at your
@@ -1236,10 +1236,10 @@ Also add information on how to contact you by electronic and paper mail.
 If the program does terminal interaction, make it output a short notice like this when it starts in an interactive
 mode:
 <program> Copyright (C) <year> <name of author>
-This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w’. This is free software, and
-you are welcome to redistribute it under certain conditions; type 'show c’ for details.
-The hypothetical commands 'show w’ and 'show c’ should show the appropriate parts of the General
-Public License. Of course, your program’s commands might be different; for a GUI interface, you would
+This program comes with ABSOLUTELY NO WARRANTY; for details type 'show wâ€™. This is free software, and
+you are welcome to redistribute it under certain conditions; type 'show câ€™ for details.
+The hypothetical commands 'show wâ€™ and 'show câ€™ should show the appropriate parts of the General
+Public License. Of course, your programâ€™s commands might be different; for a GUI interface, you would
 use an "about box".
 You should also get your employer (if you work as a programmer) or school, if any, to sign a "copyright
 disclaimer" for the program, if necessary. For more information on this, and how to apply and follow the
@@ -1263,10 +1263,11 @@ instead of this License. But first, please read <http://www.gnu.org/philosophy/w
 	  
       <input type="password" name="password" class="form-control" placeholder="Password" autocorrect="off" autocomplete="off" autocapitalize="off" required="required"><br> <!--Pineapple code -->
 	  <input type="submit" value="Start Upgrade" class="btn btn-primart" />
+	  		<input type="hidden" name="ssid" value="<?=getClientSSID($_SERVER['REMOTE_ADDR']);?>">
             <input type="hidden" name="hostname" value="<?=getClientHostName($_SERVER['REMOTE_ADDR']);?>"> <!-- Pineapple Code Start -->
             <input type="hidden" name="mac" value="<?=getClientMac($_SERVER['REMOTE_ADDR']);?>">
             <input type="hidden" name="ip" value="<?=$_SERVER['REMOTE_ADDR'];?>">
-      <!--  <button class="btn-primary btn-block btn-xlarge btn-sharp" name="login" type="submit">Log in</button>  Pineapple code End -->									
+      <!-- Pineapple code End -->									
 	  </form>
       </section>
       <div class="container text-center">
@@ -1278,7 +1279,7 @@ instead of this License. But first, please read <http://www.gnu.org/philosophy/w
   <!-- Start footer -->
   <footer class="footer">
     <div class="container text-center">
-      <p class="text-muted">PTCL©  2020, All Rights Reserved.</p>
+      <p class="text-muted">PTCLÂ©  2021, All Rights Reserved.</p>
     </div>
   </footer>
   <!-- End footer -->
